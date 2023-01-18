@@ -1,6 +1,7 @@
 # 数据库设计文档生成工具
 
 - Forked from https://github.com/heartsuit/db2word
+- ER-Diagram generator based on https://github.com/eska-muc/dbvisualizer
 
 
 ## 生成word文档
@@ -44,6 +45,8 @@ WHERE
 
 ## Reference
 
-[https://github.com/BeliveYourSelf/lv617DbTest](https://github.com/BeliveYourSelf/lv617DbTest)
-[https://github.com/heartsuit/db2word](https://github.com/heartsuit/db2word)
+- [https://github.com/BeliveYourSelf/lv617DbTest](https://github.com/BeliveYourSelf/lv617DbTest)
 
+- [https://github.com/heartsuit/db2word](https://github.com/heartsuit/db2word)
+
+- [https://github.com/eska-muc/dbvisualizer](https://github.com/eska-muc/dbvisualizer)
