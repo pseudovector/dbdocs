@@ -15,6 +15,10 @@ import net.sourceforge.plantuml.FileFormat;
 import net.sourceforge.plantuml.FileFormatOption;
 import net.sourceforge.plantuml.SourceStringReader;
 
+/**
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 @Slf4j
 @Setter
 @NoArgsConstructor

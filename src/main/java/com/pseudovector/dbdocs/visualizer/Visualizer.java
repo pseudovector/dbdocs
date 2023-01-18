@@ -10,6 +10,12 @@ import lombok.Builder;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * Create a file in dot language 
+ * 
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 @Setter
 @Builder
 @NoArgsConstructor

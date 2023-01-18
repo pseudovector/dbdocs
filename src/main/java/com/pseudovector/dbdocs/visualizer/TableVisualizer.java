@@ -1,5 +1,9 @@
 package com.pseudovector.dbdocs.visualizer;
 
+/**
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 public interface TableVisualizer {
 
     /**

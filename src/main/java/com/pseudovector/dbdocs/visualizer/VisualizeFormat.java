@@ -3,6 +3,10 @@ package com.pseudovector.dbdocs.visualizer;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
+/**
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 @Getter
 @AllArgsConstructor
 public enum VisualizeFormat {

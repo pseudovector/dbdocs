@@ -6,6 +6,10 @@ import com.pseudovector.dbdocs.entity.Table;
 
 import lombok.AllArgsConstructor;
 
+/**
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 @AllArgsConstructor
 public class SimpleTableVisualizer implements TableVisualizer {
 

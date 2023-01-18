@@ -8,6 +8,12 @@ import java.util.Objects;
 
 import lombok.extern.slf4j.Slf4j;
 
+/** 
+ * Project DBVisualizer
+ * Writes a String into a file
+ * @author Stefan Kuehnel
+ * @see https://github.com/eska-muc/dbvisualizer
+ */
 @Slf4j
 public class OutputWriter {
     Path filePath;
