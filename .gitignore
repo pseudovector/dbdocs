@@ -36,4 +36,3 @@ build/
 
 *.doc
 output/
-src/main/resources/application.yml
