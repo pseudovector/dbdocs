@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.1.1:3306?serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&useSSL=false
+    username: user
+    password: password
+
+mybatis:
+  type-aliases-package: com.pseudovector.dbdocs.entity
+  mapper-locations: 
+  - classpath*:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    default-fetch-size: 100
+    default-statement-timeout: 30
+
+configuration:
+  output-location: /opt/output
+  er-diagram-subdir: er-diagram
+  document:
+    company-name: 公司名称
+    template-location: classpath*:template/*.md

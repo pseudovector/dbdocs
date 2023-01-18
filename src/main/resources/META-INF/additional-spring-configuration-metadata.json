@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "configuration.output-location",
+    "type": "java.lang.String",
+    "description": "Path of output location of output files"
+  },
+  {
+    "name": "configuration.er-diagram-subdir",
+    "type": "java.lang.String",
+    "description": "Name of subdir for output er-diagrams"
+  },
+  {
+    "name": "configuration.document.company-name",
+    "type": "java.lang.String",
+    "description": "Company name to be displayed on cover page"
+  },
+  {
+    "name": "configuration.document.template-location",
+    "type": "java.lang.String",
+    "description": "Path of location of template markdown file"
+  }
+]}
